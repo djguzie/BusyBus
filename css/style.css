@@ -1,0 +1,93 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+@font-face {
+font-family: "sf-ui-text";
+src: url("css/fonts/sf-ui-text.eot");
+src:
+url("css/fonts/sf-ui-text.woff") format("woff"),
+url("css/fonts/sf-ui-text.otf") format("opentype"),
+url("css/fonts/sf-ui-text.svg#filename") format("svg");
+}
+
+body{
+  font-size: 16px;
+  margin: 5%;
+  background-color: black;
+  font-family: "sf-ui-text", "Helvetica", sans-serif;
+}
+
+.screen {
+  width:375px;
+  height:812px;
+  background-color: #fff;
+}
+
+.map_image img {
+  width: 100.225%;
+  height: 100%;
+}
+
+.container {
+  height: 255px;
+  margin: 0, auto;
+  overflow: scroll;
+}
+
+li {
+  display:inline;
+}
+
+.bus {
+  float:left;
+  width: 11%;
+  margin: 6px 0px 0px 10px;
+  padding: 2px;
+  border: .05px solid #000;
+  background-color: #dadada;
+  text-align: center;
+}
+
+.dest {
+  float:left;
+  width: 42%;
+  margin:3px;
+  padding: 6px;
+  margin-left: 10px;
+}
+
+.freq {
+  float:right;
+  width: 35%;
+  margin:3px 10px;
+  padding: 6px;
+}
+
+h2 {
+  font-weight:600;
+  color:#000;
+  padding:7px;
+  margin: 3px;
+  text-align: center;
+}
+
+h3 {
+  font-size: .85em;
+  font-weight:400;
+
+}
+
+.line_items{
+  width:100%;
+  height: 35px;
+  margin: 3px;
+  border-bottom: 1px solid #dadada;
+}
+
+.bottom_tab_bar img {
+  width: 100%;
+  height: 100%;
+  bottom:0px;
+  border-top:1px solid #dadada;
+}
