@@ -12,31 +12,66 @@ url("css/fonts/sf-ui-text.svg#filename") format("svg");
 }
 
 body{
-  font-size: 16px;
+  font-size: 17px;
+  font-weight:400;
   margin: 5%;
   background-color: black;
   font-family: "sf-ui-text", "Helvetica", sans-serif;
 }
 
+nav {
+  width:375px;
+}
+
+.status_bar img {
+  width:100.25%;
+  top:0px;
+}
+
+.nav_bar{
+  padding-top:10px;
+}
+
+.headers {
+  font-size: 1.1em;
+  float:left;
+  margin:12px 8px;
+  color: #2364AA;
+}
+
+.headers h2 {
+  padding:0px 0px 0px 22px;
+  margin-top: -3px;
+}
+.chev {
+  margin-top:6px;
+}
+.stops {
+  margin:10px 0px 0px 0px;
+
+}
+.done {
+  margin: 10px 20px 0px 0px;
+  float:right;
+}
+
 .screen {
   width:375px;
-  height:812px;
+  height:752px;
   background-color: #fff;
+  font-size:.85em;
 }
 
 .map_image img {
-  width: 100.225%;
+  padding-top: 0px;
+  width: 99.95%;
   height: 100%;
 }
 
 .container {
-  height: 255px;
-  margin: 0, auto;
+  height: 285px;
+  margin: 0px;
   overflow: scroll;
-}
-
-li {
-  display:inline;
 }
 
 .bus {
@@ -47,6 +82,7 @@ li {
   border: .05px solid #000;
   background-color: #dadada;
   text-align: center;
+  clear:both;
 }
 
 .dest {
@@ -60,34 +96,51 @@ li {
 .freq {
   float:right;
   width: 35%;
-  margin:3px 10px;
-  padding: 6px;
+  margin:1px 5px;
+  padding: 8px 0px 0px 0px;
 }
 
 h2 {
+  font-size:1.15em;
   font-weight:600;
   color:#000;
   padding:7px;
   margin: 3px;
-  text-align: center;
-}
-
-h3 {
-  font-size: .85em;
-  font-weight:400;
-
+  text-align:center;
 }
 
 .line_items{
   width:100%;
   height: 35px;
-  margin: 3px;
   border-bottom: 1px solid #dadada;
 }
 
+
 .bottom_tab_bar img {
   width: 100%;
-  height: 100%;
+  height:100%;
+  border-top:.5px solid #dadada;
   bottom:0px;
-  border-top:1px solid #dadada;
+}
+
+.icon_list {
+  display:inline-block;
+  position:relative;
+  top:-70px;
+  margin-left:30px;
+  padding-right:38px;
+}
+
+.highlighted img{
+  width:120%;
+  font-size:.6em;
+  color:#2364AA;
+}
+
+.icon_title {
+  display:inline-block;
+  top:-50px;
+  margin-left: 10px;
+  padding-right: 3px;
+  color: #fff;
 }
