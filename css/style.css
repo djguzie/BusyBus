@@ -117,30 +117,31 @@ h2 {
 
 
 .bottom_tab_bar img {
-  width: 100%;
+  width: 100.1%;
   height:100%;
   border-top:.5px solid #dadada;
   bottom:0px;
+  position:static;
 }
 
+.icons {
+  width:375px;
+  font-size: .8em;
+  color: #dadada;
+}
 .icon_list {
+  width:20%;
   display:inline-block;
   position:relative;
-  top:-70px;
-  margin-left:30px;
-  padding-right:38px;
+  top:-80px;
+  padding: 0px 10px;
+  margin:2%;
+  text-align:center;
+}
+.icon_list img{
+  width:50%;
 }
 
-.highlighted img{
-  width:120%;
-  font-size:.6em;
+.highlighted {
   color:#2364AA;
-}
-
-.icon_title {
-  display:inline-block;
-  top:-50px;
-  margin-left: 10px;
-  padding-right: 3px;
-  color: #fff;
 }
