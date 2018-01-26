@@ -20,44 +20,45 @@ body{
 }
 
 nav {
-  width:375px;
+  font-size:14px;
 }
 
 .status_bar img {
-  width:100.25%;
+  width:100.17%;
   top:0px;
 }
 
-.nav_bar{
-  padding-top:10px;
-}
-
-.headers {
+.header {
   font-size: 1.1em;
-  float:left;
-  margin:12px 8px;
-  color: #2364AA;
 }
 
-.headers h2 {
-  padding:0px 0px 0px 22px;
-  margin-top: -3px;
+.heading {
+  float:left;
+  margin-top:18px;
 }
+
+.heading h2 {
+  margin: -2px 35px 0px 40px;
+  padding-bottom:15px;
+}
+
 .chev {
-  margin-top:6px;
+  margin:20px 2px 0px 10px;
 }
+
 .stops {
-  margin:10px 0px 0px 0px;
+  margin:24px 0px 0px 0px;
+  color: #2364AA;
 
 }
 .done {
-  margin: 10px 20px 0px 0px;
+  margin: 24px 20px 0px 0px;
   float:right;
 }
 
 .screen {
   width:375px;
-  height:752px;
+  height:812px;
   background-color: #fff;
   font-size:.85em;
 }
@@ -69,7 +70,7 @@ nav {
 }
 
 .container {
-  height: 285px;
+  height: 270px;
   margin: 0px;
   overflow: scroll;
 }
@@ -121,7 +122,6 @@ h2 {
   height:100%;
   border-top:.5px solid #dadada;
   bottom:0px;
-  position:static;
 }
 
 .icons {

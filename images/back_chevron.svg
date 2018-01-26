@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="21px" viewBox="0 0 13 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Back Chevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BusyBus-Washington-Stop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="BusyBus-Washington" sketch:type="MSArtboardGroup" transform="translate(-8.000000, -56.000000)" fill="#2364AA">
+            <g id="Navigation-Bar/Back" sketch:type="MSLayerGroup" transform="translate(8.000000, 56.000000)">
+                <path d="M0,10.5 L10.5,0 L12.5,2 L4,10.5 L12.5,19 L10.5,21 L0,10.5 Z" id="Back-Chevron" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

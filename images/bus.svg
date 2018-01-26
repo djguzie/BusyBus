@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>bus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BusyBus-Washington-Stop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="BusyBus-Washington" sketch:type="MSArtboardGroup" transform="translate(-39.000000, -740.000000)">
+            <g id="Tab-BAR" sketch:type="MSLayerGroup" transform="translate(0.000000, 734.000000)">
+                <g id="Stops" transform="translate(29.000000, 6.000000)" sketch:type="MSBitmapLayer">
+                    <g id="BUSS-STOP" transform="translate(9.000000, 0.000000)">
+                        <g id="BUS">
+                            <image id="bus" x="1" y="0" width="25" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAA1teXP8meAAAAXNJREFUSA3dVrFKA0EQjSJaCKLp7CSNaKWtwVQaELG18WfyAUKCpa34BWKjYGOsU6a3iCm0s1BT6HvHDhn3Zs+7zVYOvMzs7Lx57N7tXmq1qW0gvAKGwDvwHQlyH4Ad4JctY/QMxDa2eGP0W9IqJwGBui76I74wehyRM++IDed9N+cnKo43Wb/gSGsB8msgXza9wkIR0aQBBvcA97mqceWHwK4jZjtFkSeATcWOEbzIIML3wBkpXp9KeyrBcBYBi9+UB+/ppB3+L5F+2s3JdXvkdu3n0mkTLeuZrM+ose3zrcN4i6LYw7gI7mkZEZ5WObF+fdTY2q6oRkUkS+QShFWgCbwVkdUc63hz8KIl37QOsvLhoYAY7yHJF/muEOApJLUd5q2VbHHCWe5NkQnP6zodZ2Xydk0U6QbxNUAxXttlrI2iO4D/D84U4UvFWTNZYkp/QBH9eWXz1Kb7Z70/8atX8VFRMcjXD/4cTWUP6TmuYkH+D58ngllbg7cNAAAAAElFTkSuQmCC"></image>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
